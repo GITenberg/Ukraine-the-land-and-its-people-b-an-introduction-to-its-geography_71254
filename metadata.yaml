@@ -1,0 +1,38 @@
+_repo: Ukraine-the-land-and-its-people-b-an-introduction-to-its-geography_71254
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rudnytskyi, Stepan
+    aliases:
+    - Rudnitsky, Stephen
+    - Рудницький, Степан Львович
+    - Rudnytsky, Stepan
+    birthdate: 1877
+    deathdate: 1937
+    gutenberg_agent_id: '56143'
+    url: http://www.gutenberg.org/2009/agents/56143
+    wikipedia: https://uk.wikipedia.org/wiki/%D0%A0%D1%83%D0%B4%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD_%D0%9B%D1%8C%D0%B2%D0%BE%D0%B2%D0%B8%D1%87
+description: ''
+gutenberg_issued: '2023-07-22'
+identifiers:
+  gutenberg: '71254'
+  lccn: '18021242'
+language: en
+pgterms:marc904: https://archive.org/details/ukrainelanditspe00rudnuoft/page/n1/mode/2up
+pgterms:marc905: 20220305134601rudnitsky
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aUnited States :$bRand McNally & Co, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ukraine'
+- !lcsh 'Ukrainians'
+- !lcc 'DK'
+- GITenberg
+title: 'Ukraine, the land and its people : $b an introduction to its geography'
+url: http://www.gutenberg.org/ebooks/71254
